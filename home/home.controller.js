@@ -2,7 +2,7 @@ class HomeCtrl {
   constructor($scope) {
     'ngInject';
 
-    this.name = "AngularJS";
+    this.name = "Shreyansh";
   }
 }
 
